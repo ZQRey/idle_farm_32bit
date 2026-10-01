@@ -1,0 +1,43 @@
+{
+  "version": "0.1.0",
+  "display": {
+    "scene_height": 180,
+    "fps": 30,
+    "monitor": 0,
+    "low_power_mode": false,
+    "hide_during_fullscreen": true,
+    "particle_quality": "medium"
+  },
+  "gameplay": {
+    "click_through": true,
+    "auto_sell": "never",
+    "auto_sell_threshold": 80,
+    "auto_sell_min_price": 0,
+    "simulation_speed": 1,
+    "offline_progress": true,
+    "max_offline_hours": 12
+  },
+  "audio": {
+    "master_volume": 0.5,
+    "machinery_volume": 0.3,
+    "nature_volume": 0.4,
+    "weather_volume": 0.3,
+    "ui_volume": 0.5,
+    "music_volume": 0.0,
+    "muted": false
+  },
+  "save": {
+    "autosave_interval": 45
+  },
+  "general": {
+    "language": "en",
+    "start_with_windows": false,
+    "show_notifications": true
+  },
+  "debug": {
+    "enabled": false,
+    "show_fps": false,
+    "show_grid": false,
+    "show_hitboxes": false
+  }
+}

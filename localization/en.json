@@ -1,0 +1,152 @@
+{
+    "game_title": "Desktop Idle Farm",
+    "tray": {
+        "title": "Desktop Idle Farm",
+        "farm": "Farm",
+        "farm_status": "Farm Status",
+        "fields": "Fields",
+        "harvest": "Harvest",
+        "storage": "Storage",
+        "finances": "Finances",
+        "staff": "Staff",
+        "workers": "Workers",
+        "hire_worker": "Hire Worker",
+        "vehicles": "Vehicles",
+        "all_vehicles": "All Vehicles",
+        "buy_vehicle": "Buy Vehicle",
+        "maintenance": "Maintenance",
+        "shop": "Shop",
+        "statistics": "Statistics",
+        "settings": "Settings",
+        "display": "Display",
+        "sound": "Sound",
+        "performance": "Performance",
+        "gameplay": "Gameplay",
+        "monitor": "Monitor",
+        "pause": "Pause",
+        "resume": "Resume",
+        "hide_farm": "Hide Farm",
+        "show_farm": "Show Farm",
+        "restart_scene": "Restart Scene",
+        "exit": "Exit",
+        "debug": "Debug Panel"
+    },
+    "crops": {
+        "wheat": "Wheat",
+        "barley": "Barley",
+        "corn": "Corn",
+        "sunflower": "Sunflower",
+        "potato": "Potato",
+        "canola": "Canola",
+        "peas": "Peas"
+    },
+    "vehicles": {
+        "small_tractor": "Small Tractor",
+        "medium_tractor": "Medium Tractor",
+        "heavy_tractor": "Heavy Tractor",
+        "modern_tractor": "Modern Tractor",
+        "small_combine": "Small Combine",
+        "medium_combine": "Medium Combine",
+        "large_combine": "Large Combine",
+        "farm_truck": "Farm Truck",
+        "grain_truck": "Grain Truck",
+        "large_grain_truck": "Large Grain Truck"
+    },
+    "attachments": {
+        "plow": "Plow",
+        "cultivator": "Cultivator",
+        "seeder": "Seeder",
+        "fertilizer_spreader": "Fertilizer Spreader",
+        "sprayer": "Sprayer",
+        "trailer": "Trailer"
+    },
+    "weather": {
+        "clear": "Clear",
+        "cloudy": "Cloudy",
+        "rain": "Rain",
+        "heavy_rain": "Heavy Rain",
+        "storm": "Storm",
+        "heat": "Heat",
+        "strong_wind": "Strong Wind",
+        "hail": "Hail",
+        "snow": "Snow",
+        "fog": "Fog"
+    },
+    "workers": {
+        "farm_worker": "Farm Worker",
+        "tractor_driver": "Tractor Driver",
+        "combine_operator": "Combine Operator",
+        "agronomist": "Agronomist",
+        "mechanic": "Mechanic",
+        "truck_driver": "Truck Driver"
+    },
+    "quality": {
+        "poor": "Poor",
+        "normal": "Normal",
+        "good": "Good",
+        "excellent": "Excellent",
+        "premium": "Premium"
+    },
+    "ui": {
+        "money": "Money",
+        "fuel": "Fuel",
+        "level": "Level",
+        "buy": "Buy",
+        "sell": "Sell",
+        "hire": "Hire",
+        "repair": "Repair",
+        "upgrade": "Upgrade",
+        "close": "Close",
+        "confirm": "Confirm",
+        "cancel": "Cancel",
+        "auto_sell": "Auto Sell",
+        "always": "Always",
+        "never": "Never",
+        "if_storage_above": "If storage above {threshold}%",
+        "if_price_above": "If price above {price}",
+        "speed": "Speed",
+        "condition": "Condition",
+        "capacity": "Capacity",
+        "price": "Price",
+        "salary": "Salary"
+    },
+    "seasons": {
+        "spring": "Spring",
+        "summer": "Summer",
+        "autumn": "Autumn",
+        "winter": "Winter"
+    },
+    "time": {
+        "dawn": "Dawn",
+        "morning": "Morning",
+        "day": "Day",
+        "evening": "Evening",
+        "night": "Night"
+    },
+    "offline": {
+        "welcome_back": "Welcome back!",
+        "away_time": "You were away: {hours}h {minutes}m",
+        "harvested": "Harvested: {amount} kg",
+        "earned": "Earned: ${amount}",
+        "repairs": "Repairs: ${amount}",
+        "events": "Events: {count}"
+    },
+    "events": {
+        "tractor_breakdown": "Tractor breakdown!",
+        "flat_tire": "Flat tire!",
+        "pest_outbreak": "Pest outbreak on the field!",
+        "perfect_weather": "Perfect weather for farming!",
+        "high_market_price": "Market prices are up!",
+        "rainbow": "A rainbow appeared!"
+    },
+    "achievements": {
+        "first_harvest": "First Harvest",
+        "1000kg": "1000 kg Harvested",
+        "first_combine": "First Combine",
+        "five_workers": "Five Workers",
+        "survive_hail": "Survived Hail",
+        "night_harvest": "Night Harvest",
+        "premium_crop": "Premium Crop",
+        "master_farmer": "Master Farmer"
+    }
+}

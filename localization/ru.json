@@ -1,0 +1,152 @@
+{
+    "game_title": "Desktop Idle Farm",
+    "tray": {
+        "title": "Desktop Idle Farm",
+        "farm": "Ферма",
+        "farm_status": "Состояние фермы",
+        "fields": "Поля",
+        "harvest": "Урожай",
+        "storage": "Склад",
+        "finances": "Финансы",
+        "staff": "Персонал",
+        "workers": "Рабочие",
+        "hire_worker": "Нанять рабочего",
+        "vehicles": "Техника",
+        "all_vehicles": "Вся техника",
+        "buy_vehicle": "Купить технику",
+        "maintenance": "Обслуживание",
+        "shop": "Магазин",
+        "statistics": "Статистика",
+        "settings": "Настройки",
+        "display": "Отображение",
+        "sound": "Звук",
+        "performance": "Производительность",
+        "gameplay": "Игровой процесс",
+        "monitor": "Монитор",
+        "pause": "Пауза",
+        "resume": "Продолжить",
+        "hide_farm": "Скрыть ферму",
+        "show_farm": "Показать ферму",
+        "restart_scene": "Перезапустить сцену",
+        "exit": "Выход",
+        "debug": "Панель отладки"
+    },
+    "crops": {
+        "wheat": "Пшеница",
+        "barley": "Ячмень",
+        "corn": "Кукуруза",
+        "sunflower": "Подсолнечник",
+        "potato": "Картофель",
+        "canola": "Рапс",
+        "peas": "Горох"
+    },
+    "vehicles": {
+        "small_tractor": "Малый трактор",
+        "medium_tractor": "Средний трактор",
+        "heavy_tractor": "Тяжёлый трактор",
+        "modern_tractor": "Современный трактор",
+        "small_combine": "Малый комбайн",
+        "medium_combine": "Средний комбайн",
+        "large_combine": "Большой комбайн",
+        "farm_truck": "Фермерский грузовик",
+        "grain_truck": "Зерновоз",
+        "large_grain_truck": "Большой зерновоз"
+    },
+    "attachments": {
+        "plow": "Плуг",
+        "cultivator": "Культиватор",
+        "seeder": "Сеялка",
+        "fertilizer_spreader": "Разбрасыватель удобрений",
+        "sprayer": "Опрыскиватель",
+        "trailer": "Прицеп"
+    },
+    "weather": {
+        "clear": "Ясно",
+        "cloudy": "Облачно",
+        "rain": "Дождь",
+        "heavy_rain": "Сильный дождь",
+        "storm": "Гроза",
+        "heat": "Жара",
+        "strong_wind": "Сильный ветер",
+        "hail": "Град",
+        "snow": "Снег",
+        "fog": "Туман"
+    },
+    "workers": {
+        "farm_worker": "Разнорабочий",
+        "tractor_driver": "Тракторист",
+        "combine_operator": "Комбайнёр",
+        "agronomist": "Агроном",
+        "mechanic": "Механик",
+        "truck_driver": "Водитель"
+    },
+    "quality": {
+        "poor": "Плохое",
+        "normal": "Нормальное",
+        "good": "Хорошее",
+        "excellent": "Отличное",
+        "premium": "Премиум"
+    },
+    "ui": {
+        "money": "Деньги",
+        "fuel": "Топливо",
+        "level": "Уровень",
+        "buy": "Купить",
+        "sell": "Продать",
+        "hire": "Нанять",
+        "repair": "Ремонт",
+        "upgrade": "Улучшить",
+        "close": "Закрыть",
+        "confirm": "Подтвердить",
+        "cancel": "Отмена",
+        "auto_sell": "Автопродажа",
+        "always": "Всегда",
+        "never": "Никогда",
+        "if_storage_above": "Если склад больше {threshold}%",
+        "if_price_above": "Если цена выше {price}",
+        "speed": "Скорость",
+        "condition": "Состояние",
+        "capacity": "Вместимость",
+        "price": "Цена",
+        "salary": "Зарплата"
+    },
+    "seasons": {
+        "spring": "Весна",
+        "summer": "Лето",
+        "autumn": "Осень",
+        "winter": "Зима"
+    },
+    "time": {
+        "dawn": "Рассвет",
+        "morning": "Утро",
+        "day": "День",
+        "evening": "Вечер",
+        "night": "Ночь"
+    },
+    "offline": {
+        "welcome_back": "С возвращением!",
+        "away_time": "Вас не было: {hours}ч {minutes}м",
+        "harvested": "Собрано: {amount} кг",
+        "earned": "Заработано: ${amount}",
+        "repairs": "Ремонт: ${amount}",
+        "events": "Событий: {count}"
+    },
+    "events": {
+        "tractor_breakdown": "Трактор сломался!",
+        "flat_tire": "Спущено колесо!",
+        "pest_outbreak": "Вредители на поле!",
+        "perfect_weather": "Идеальная погода для работы!",
+        "high_market_price": "Рыночные цены выросли!",
+        "rainbow": "Появилась радуга!"
+    },
+    "achievements": {
+        "first_harvest": "Первый урожай",
+        "1000kg": "1000 кг собрано",
+        "first_combine": "Первый комбайн",
+        "five_workers": "Пять рабочих",
+        "survive_hail": "Пережить град",
+        "night_harvest": "Ночная уборка",
+        "premium_crop": "Премиальный урожай",
+        "master_farmer": "Мастер-фермер"
+    }
+}

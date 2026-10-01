@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build
+*.spec
+dist/
+build/
+
+# Logs
+logs/*.log
+
+# Save files
+saves/*.json
+saves/*.bak
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Config (user-specific)
+config/user_settings.json
+
+# Assets generated marker
+assets/.generated
